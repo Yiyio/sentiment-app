@@ -1,0 +1,16 @@
+{
+  "name": "sentiment-analysis-case",
+  "version": "1.0.0",
+  "description": "This application performs sentiment analysis on text files and outputs a csv file with the results. Made for Trivago's case study for Data Integration Engineer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Javier Gutierrez Barguilla",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "json2csv": "^3.11.5",
+    "mocha": "^5.0.1"
+  }
+}
